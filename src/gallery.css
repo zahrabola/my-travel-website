@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+img {
+  margin: 10px;
+  padding: 20px;
+}
+.footer {
+  padding: 50px;
+  color: rgb(0, 0, 0);
+}
+li,
+a {
+  list-style: none;
+  text-decoration: none;
+  color: black;
+}
+#cr:hover {
+  text-decoration: underline;
+}
+#cr {
+  color: #0d6efd;
+}
+.header-upload {
+  text-align: center;
+}
+#upload-heading {
+  margin: 10px;
+  padding: 30px;
+  text-align: center;
+}
+.upload-file {
+  align-items: center;
+  text-align: center;
+  margin-top: 10px;
+}
+#upload-title {
+  text-align: center;
+}
+.form-upload {
+  margin: 20px;
+  padding: 10px;
+}
+#myFile {
+  padding: 5px;
+  margin: 5px;
+}
